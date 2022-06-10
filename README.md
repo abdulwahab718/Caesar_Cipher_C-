@@ -1,5 +1,4 @@
-# Caesar_Cipher_C-
-## Caesar Cipher Algorithm Code in C++
+# Caesar Cipher Algorithm Code in C++
 ![](https://media.geeksforgeeks.org/wp-content/uploads/ceaserCipher.png)
 - Functionalities
 - Encrypt Data using Ceaser Cipher Algorithm
